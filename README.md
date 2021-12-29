@@ -7,12 +7,13 @@
 
 
 <div>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+ 
    
-  ![Aniro-Montenegro GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniro-Montenegro&theme=dark&show_icons=true)
+  <a href= "https://github.com/Aniro-Montenegro/Aniro-Montenegro">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aniro-Montenegro&show_icons=true&theme=dracula&include_all_commits-true&count_private-true"/>
 
 
 
-   <i class="devicon-flutter-plain"></i>
+   
   
 </div>
