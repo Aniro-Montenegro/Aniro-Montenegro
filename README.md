@@ -5,3 +5,5 @@
 ![Aniro-Montenegro GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniro-Montenegro&theme=dark&show_icons=true)
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
+<i class="devicon-flutter-plain"></i>
+
