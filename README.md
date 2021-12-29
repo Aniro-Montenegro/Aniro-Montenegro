@@ -2,4 +2,4 @@
 - 👀 Estou interessado em desenvolvimento de sistemas
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Aniro-Montenegro GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniro-Montenegro&theme=dark&show_icons=true)
