@@ -1,5 +1,6 @@
 - 👋 Olá, meu nome é Aniro Montenegro
 - 👀 Estou interessado em desenvolvimento de sistemas
+- 📱 No momento estou trabalhando em desenvolvimento de aplicativos para celular
 
 
 
